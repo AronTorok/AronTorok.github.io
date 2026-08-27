@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-big-shoulders: "Big Shoulders", sans-serif;
+  --font-suse: "SUSE", sans-serif;
+}
+
+h1 {
+  @apply font-big-shoulders;
+}

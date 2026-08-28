@@ -1,0 +1,1 @@
+The src folder is actually an impostor, this folder contains the files inside the build version of the project, the src contains the original code. Languages and libraries used: HTML, CSS, JS, React and Tailwind.
